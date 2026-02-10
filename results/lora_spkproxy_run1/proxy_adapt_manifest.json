@@ -1,0 +1,45 @@
+{
+  "created_utc": "2026-02-04T21:06:31Z",
+  "seed": 70072,
+  "train_split": "train-clean-100",
+  "dev_split": "dev-clean",
+  "test_split": "test-clean",
+  "max_core_dur_sec": 10.0,
+  "max_total_sec": 30.0,
+  "train_n_pairs": 2000,
+  "dev_n_pairs": 400,
+  "test_n_pairs": 400,
+  "pitch_k": 2.0,
+  "speed_min": 0.9,
+  "speed_max": 1.1,
+  "train_conds": [
+    "B",
+    "C",
+    "D"
+  ],
+  "dev_conds": [
+    "B",
+    "C",
+    "D"
+  ],
+  "train_dir": "results/lora_spkproxy_run1/proxy_datasets/train-clean-100/train_mix",
+  "dev_dir": "results/lora_spkproxy_run1/proxy_datasets/dev-clean/dev_mix",
+  "whisper_name": "openai/whisper-small.en",
+  "lora_scope": "encoder",
+  "lora_target": "all",
+  "lora_r": 16,
+  "lora_alpha": 32.0,
+  "lora_dropout": 0.0,
+  "train_hparams": {
+    "lr": 3e-05,
+    "batch_size": 2,
+    "max_steps": 1500,
+    "eval_every": 200,
+    "patience": 4,
+    "fp16": true
+  },
+  "eval_decode": {
+    "beam": 5,
+    "temperature": 0.0
+  }
+}

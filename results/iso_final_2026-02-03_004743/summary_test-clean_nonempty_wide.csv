@@ -1,0 +1,7 @@
+split,condition,conformer | beam,conformer | beam_lm,conformer | greedy,whisper | deterministic,whisper | sampling_t0p8
+test-clean,tail_silence_3s,0.0,0.0,0.0,1.0,0.3388141504733433
+test-clean,tail_silence_10s,0.0,1.0,0.0,1.0,0.38365719980069757
+test-clean,tail_noise10db_10s,0.9995017438963627,1.0,0.0,0.8360737419033383,0.04633781763826607
+test-clean,concat__same__silence__5s,0.0,0.0,0.0,1.0,0.396
+test-clean,concat__diff__silence__5s,0.0,0.0,0.0,1.0,0.378
+test-clean,concat__diff__noise__5s,0.919,1.0,0.001,0.996,0.07

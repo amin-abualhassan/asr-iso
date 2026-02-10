@@ -1,0 +1,7 @@
+split,condition,conformer | beam,conformer | beam_lm,conformer | greedy,whisper | deterministic,whisper | sampling_t0p8
+dev-clean,tail_silence_3s,0.0,0.0,0.0,1.0,0.351123595505618
+dev-clean,tail_silence_10s,0.0,1.0,0.0,1.0,0.40402621722846443
+dev-clean,tail_noise10db_10s,0.9995318352059925,1.0,0.0,0.7888576779026217,0.041666666666666664
+dev-clean,concat__same__silence__5s,0.0,0.0,0.0,1.0,0.391
+dev-clean,concat__diff__silence__5s,0.0,0.0,0.0,1.0,0.395
+dev-clean,concat__diff__noise__5s,0.925,1.0,0.0,0.992,0.058

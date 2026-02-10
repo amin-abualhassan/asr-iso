@@ -1,0 +1,110 @@
+{
+  "tag": "step0_base",
+  "utc": "2026-02-04T21:16:03Z",
+  "dev": {
+    "wer": 0.3528784049424319,
+    "cer": 0.3177187953013372,
+    "ins_rate": 0.009856781802864364
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": "results/lora_spkproxy_run1/lora/debug/debug_longest_hyps_step0_base_20260204_211601.txt"
+}
+{
+  "tag": "step0_lora_init",
+  "utc": "2026-02-04T21:26:26Z",
+  "dev": {
+    "wer": 0.3528784049424319,
+    "cer": 0.3177187953013372,
+    "ins_rate": 0.009856781802864364
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": null
+}
+{
+  "tag": "step200",
+  "utc": "2026-02-04T21:38:39Z",
+  "dev": {
+    "wer": 0.20727323785453525,
+    "cer": 0.16103386183539078,
+    "ins_rate": 0.016119067677618646
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": "results/lora_spkproxy_run1/lora/debug/debug_longest_hyps_step200_20260204_213837.txt"
+}
+{
+  "tag": "step400",
+  "utc": "2026-02-04T21:51:30Z",
+  "dev": {
+    "wer": 0.15467565290648694,
+    "cer": 0.09416177493483108,
+    "ins_rate": 0.02080876158382477
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": "results/lora_spkproxy_run1/lora/debug/debug_longest_hyps_step400_20260204_215127.txt"
+}
+{
+  "tag": "step600",
+  "utc": "2026-02-04T22:06:50Z",
+  "dev": {
+    "wer": 0.14383600112328,
+    "cer": 0.0843263061411549,
+    "ins_rate": 0.014012917719741646
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": null
+}
+{
+  "tag": "step800",
+  "utc": "2026-02-04T22:21:44Z",
+  "dev": {
+    "wer": 0.13810727323785454,
+    "cer": 0.07818320104530296,
+    "ins_rate": 0.015080033698399326
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": null
+}
+{
+  "tag": "step1000",
+  "utc": "2026-02-04T22:36:20Z",
+  "dev": {
+    "wer": 0.14026958719460825,
+    "cer": 0.07801418439716312,
+    "ins_rate": 0.015164279696714406
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": null
+}
+{
+  "tag": "step1200",
+  "utc": "2026-02-04T22:51:30Z",
+  "dev": {
+    "wer": 0.1613030047739399,
+    "cer": 0.0879406621552223,
+    "ins_rate": 0.015922493681550125
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": null
+}
+{
+  "tag": "step1400",
+  "utc": "2026-02-04T23:08:03Z",
+  "dev": {
+    "wer": 0.1594776748104465,
+    "cer": 0.08641951232196371,
+    "ins_rate": 0.016849199663016005
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": null
+}
+{
+  "tag": "step1500",
+  "utc": "2026-02-04T23:24:54Z",
+  "dev": {
+    "wer": 0.1547037349059253,
+    "cer": 0.08458633175367773,
+    "ins_rate": 0.016287559674248806
+  },
+  "gap_nonempty": null,
+  "debug_longest_path": "results/lora_spkproxy_run1/lora/debug/debug_longest_hyps_step1500_20260204_232451.txt"
+}

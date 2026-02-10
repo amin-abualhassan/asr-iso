@@ -1,0 +1,128 @@
+[debug] tag=step0_base  n=1200  topk=25
+Sorted by hyp word count (descending)
+
+#1
+ref_words=62 hyp_words=66  (diff=4)
+REF: HE HELD A HOE IN HIS HAND AND WHILE PHOEBE WAS GONE IN QUEST OF THE CRUMBS HAD BEGUN TO BUSY HIMSELF WITH DRAWING UP FRESH EARTH ABOUT THE ROOTS OF THE TOMATOES IF YOU WOULD PERMIT ME SAID THE ARTIST LOOKING AT PHOEBE I SHOULD LIKE TO TRY WHETHER THE DAGUERREOTYPE CAN BRING OUT DISAGREEABLE TRAITS ON A PERFECTLY AMIABLE FACE
+HYP: He held a toe in his hand, and while he was gone, he busted the crumbs, and he led to visit himself with a drawing of the fresh earth of the roots of his papers. If you would permit me to see the artist looking at Phoebe, I would like to try whether the daguerreotype can bring out just a real trace on her 50-angle face.
+--------------------------------------------------------------------------------
+#2
+ref_words=62 hyp_words=63  (diff=1)
+REF: A DISTINCT PROMISE OF A HUNDRED POUNDS WAS MADE TO HIM IF HE WOULD HAVE THE CHILD READY TO HAND OVER TO TREVELYAN ON TREVELYAN'S ARRIVAL IN ENGLAND AT LAST HE SENT WORD TO SAY THAT HE HIMSELF WOULD BE IN ENGLAND BEFORE THE END OF MARCH AND WOULD SEE THAT THE MAJESTY OF THE LAW SHOULD BE VINDICATED IN HIS FAVOUR
+HYP: A distinct promise of a hundred pounds was made to him if he would have the child ready to hand over to Trevelyan on Trevelyan's arrival in England. At last he said to her to say that he himself would be in England before the end of March and would see that the majesty of the law should be vindicated in his favor.
+--------------------------------------------------------------------------------
+#3
+ref_words=60 hyp_words=62  (diff=2)
+REF: IT WAS A SUMMER NIGHT AND THE GUESTS WERE WANDERING IN AND OUT AT WILL AND THROUGH HOUSE AND GARDEN AMID LOVELY THINGS OF ALL COLORS AND ODORS SHE KNEW NOTHING OF THE PLACE HAD NOWHERE TO GO NOWHERE SHE WANTED TO GO HAD NOT A THOUGHT TO TELL HER WHAT QUESTION TO ASK IF SHE MET A LIVING SOUL
+HYP: It was a summer night, and the guests were wandering in and out at will, and through house and garden, amid lovely things of all colors and odors. She knew nothing of the place, had no where to go, no where she wanted to go, had not a thought to tell her what questions to ask as she met the living soul.
+--------------------------------------------------------------------------------
+#4
+ref_words=62 hyp_words=62  (diff=0)
+REF: A DISTINCT PROMISE OF A HUNDRED POUNDS WAS MADE TO HIM IF HE WOULD HAVE THE CHILD READY TO HAND OVER TO TREVELYAN ON TREVELYAN'S ARRIVAL IN ENGLAND AT LAST HE SENT WORD TO SAY THAT HE HIMSELF WOULD BE IN ENGLAND BEFORE THE END OF MARCH AND WOULD SEE THAT THE MAJESTY OF THE LAW SHOULD BE VINDICATED IN HIS FAVOUR
+HYP: A distinct promise of a hundred pounds was made to him, if you have a child ready to hand over to Tronellion, on Tronellion's arrival in England. At last he sent a word to say that he himself would be in England before the end of March, and would see that the majesty of the law should be vindicated in his favor.
+--------------------------------------------------------------------------------
+#5
+ref_words=60 hyp_words=60  (diff=0)
+REF: IT WAS A SUMMER NIGHT AND THE GUESTS WERE WANDERING IN AND OUT AT WILL AND THROUGH HOUSE AND GARDEN AMID LOVELY THINGS OF ALL COLORS AND ODORS SHE KNEW NOTHING OF THE PLACE HAD NOWHERE TO GO NOWHERE SHE WANTED TO GO HAD NOT A THOUGHT TO TELL HER WHAT QUESTION TO ASK IF SHE MET A LIVING SOUL
+HYP: It was a summer night, and the guests were wandering in and out at will, and through house and garden amid lovely things of all colors and odors. She knew nothing of the place, had nowhere to go, nowhere she wanted to go, had not a thought to tell her what question to ask if she met a living soul.
+--------------------------------------------------------------------------------
+#6
+ref_words=60 hyp_words=60  (diff=0)
+REF: IT WAS A SUMMER NIGHT AND THE GUESTS WERE WANDERING IN AND OUT AT WILL AND THROUGH HOUSE AND GARDEN AMID LOVELY THINGS OF ALL COLORS AND ODORS SHE KNEW NOTHING OF THE PLACE HAD NOWHERE TO GO NOWHERE SHE WANTED TO GO HAD NOT A THOUGHT TO TELL HER WHAT QUESTION TO ASK IF SHE MET A LIVING SOUL
+HYP: It was a summer night, and the guests were wandering in and out at will and through House of Garden amid lovely things of all colors and ogres. She knew nothing of the place, had nowhere to go, nowhere she wanted to go, had not a thought to tell her what questions to ask as she met the living soul.
+--------------------------------------------------------------------------------
+#7
+ref_words=55 hyp_words=58  (diff=3)
+REF: ONCE MORE STACY APPROACHED THE SOMBRERO HIS PONY RUNNING WELL AND AS HE DREW NEAR IT THEY SAW HIM RISE IN HIS SADDLE JUST AS TAD BUTLER HAD DONE A FEW MINUTES BEFORE PONG TELL THE YOUNG GENTLEMEN WHAT WOULD BECOME OF YOU IF YOU WERE TO SERVE BAD MEALS TO THIS OUTFIT OF COWPUNCHERS
+HYP: Once more Stacey had pushed the submarine over, he's probably running well, and as he drew near it, they saw him rise in the sand with just his head that Lorenz done a few minutes before. It's healthy of a gentleman, awkward to cover you if you were to serve bad males to the staff of the calendar.
+--------------------------------------------------------------------------------
+#8
+ref_words=52 hyp_words=57  (diff=5)
+REF: SOMEHOW OR OTHER CAT HAS TAUGHT THEM THAT HE'S IN CHARGE HERE AND HE JUST CHASES THEM FOR FUN NOW AND AGAIN WHEN HE'S NOT BUSY SLEEPING IN ARISTOCRATIC COUNTRIES THE GREAT POSSESS IMMENSE PRIVILEGES UPON WHICH THEIR PRIDE RESTS WITHOUT SEEKING TO RELY UPON THE LESSER ADVANTAGES WHICH ACCRUE TO THEM
+HYP: Somehow or other, Cap has taught them that he is in charge here, and he just chases them for fun now and again, when he's not busy sleeping. In our tragic countries, they worried to possess the immense privileges of owners that cry at rest, without seeking to rely upon the lesser advantages which accrue to them.
+--------------------------------------------------------------------------------
+#9
+ref_words=57 hyp_words=57  (diff=0)
+REF: SO LONELY AND SO SOLEMN WITH THE SAD GREY CLOUDS ABOVE AND NO SOUND SAVE A LOST LAMB BLEATING UPON THE MOUNTAIN SIDE AS THOUGH ITS LITTLE HEART WERE BREAKING THE FIRST EDITION OF EREWHON SOLD IN ABOUT THREE WEEKS I HAD NOT TAKEN MOULDS AND AS THE DEMAND WAS STRONG IT WAS SET UP AGAIN IMMEDIATELY
+HYP: So lonely and so solemn, with the sad grey clouds above, and no sound stable lost in my own bleeding upon the mountainside, as though it was a little heartbreaking. The first edition of everyone sold in about three weeks, having not taken any moles, and as the vamp was dropped, it was set up again immediately.
+--------------------------------------------------------------------------------
+#10
+ref_words=54 hyp_words=55  (diff=1)
+REF: ARDENT IN THE PROSECUTION OF HERESY CYRIL AUSPICIOUSLY OPENED HIS REIGN BY OPPRESSING THE NOVATIANS THE MOST INNOCENT AND HARMLESS OF THE SECTARIES A RUMOR WAS SPREAD AMONG THE CHRISTIANS THAT THE DAUGHTER OF THEON WAS THE ONLY OBSTACLE TO THE RECONCILIATION OF THE PRAEFECT AND THE ARCHBISHOP AND THAT OBSTACLE WAS SPEEDILY REMOVED
+HYP: Armed in the prosecution of heresy, Harrell auspiciously opened his reign by uprising with locations, the most innocent and harmless of secretaries. A rumor was to write among the Christians that the daughter of Theon was the only obstacle to the reconciliation of the prefect of the archbishop, and that obstacle was steel and removed.
+--------------------------------------------------------------------------------
+#11
+ref_words=50 hyp_words=54  (diff=4)
+REF: YET AS THE PROFOUND DOCTOR HAD BEEN TERRIFIED AT HIS OWN RASHNESS APOLLINARIS WAS HEARD TO MUTTER SOME FAINT ACCENTS OF EXCUSE AND EXPLANATION DURING A BUSY PERIOD OF THREE MONTHS THE EMPEROR TRIED EVERY METHOD EXCEPT THE MOST EFFECTUAL MEANS OF INDIFFERENCE AND CONTEMPT TO RECONCILE THIS THEOLOGICAL QUARREL
+HYP: Yet, as the profound doctrine had to be terrified of his own rashness, a pollinarist was urged to mutter some games and sense of excuse and explanation. During a busy period of three months, he had fortified every method except for the most effectual means of indifference and contempt to reconcile the theological quarrel.
+--------------------------------------------------------------------------------
+#12
+ref_words=51 hyp_words=54  (diff=3)
+REF: THEY MADE ME THINK OF DEFEATED ARMIES RETREATING OR OF GHOSTS WHO WERE TRYING DESPERATELY TO GET IN FOR SHELTER AND THEN WENT MOANING ON THE LITTLE HOUSE ON THE HILLSIDE WAS SO MUCH THE COLOR OF THE NIGHT THAT WE COULD NOT SEE IT AS WE CAME UP THE DRAW
+HYP: They made me think it was to be an army's dream, or a ghost who were trying desperately to get in for shelter. And they were unloading on. The little house on the hillside was so much the color of the night that we could not see it as we came out there on.
+--------------------------------------------------------------------------------
+#13
+ref_words=54 hyp_words=54  (diff=0)
+REF: THE COMPARISON OCCURRED TO MISTER VERLOC BECAUSE HE HAD SAT ASTRIDE VARIOUS ARMY HORSES IN HIS TIME AND HAD NOW THE SENSATION OF AN INCIPIENT FALL LOAFING WAS ALL VERY WELL FOR THESE FELLOWS WHO KNEW NOT MISTER VLADIMIR AND HAD WOMEN TO FALL BACK UPON WHEREAS HE HAD A WOMAN TO PROVIDE FOR
+HYP: The comparison occurred to Mr. Ralock because he had satisfied various army forces in his time and had now the sensation of a Mississippi at all. Looking was all very well for these scholars, can you not Mr. Latimer and the women's have all acted upon, whereas he had a woman to provide for.
+--------------------------------------------------------------------------------
+#14
+ref_words=53 hyp_words=53  (diff=0)
+REF: GIVE ME MY HORSE AND ARMS AND WAIT FOR ME HERE I WILL GO IN QUEST OF THIS KNIGHT AND DEAD OR ALIVE I WILL MAKE HIM KEEP HIS WORD PLIGHTED TO SO GREAT BEAUTY O HUSBAND WHOSE UNHAPPY FATE IN BEING MINE HATH BORNE THEE FROM THE MARRIAGE BED TO THE GRAVE
+HYP: Give me my horse and arms, and wait for me here. I will go in quest of this night, and dead or alive I will make him keep his word plighted to so great beauty. O husband, whose unhappy face and being mine hath borne thee from the very bed to the grave.
+--------------------------------------------------------------------------------
+#15
+ref_words=52 hyp_words=53  (diff=1)
+REF: AND NOW IT HAD COME TO PASS THAT HIS SOLE REMAINING ALLY MISTER SAMUEL BOZZLE THE EX POLICEMAN WAS BECOMING WEARY OF HIS SERVICE AS HE WENT ABOUT HIS EYES WERE EVER CAST DOWNWARDS AND HE WALKED WITH A QUICK SHUFFLING GAIT AND HE SUSPECTED OTHERS FEELING THAT HE HIMSELF WAS SUSPECTED
+HYP: And now it had come to pass that his sole remaining ally, Mr. Samuel Basel, the ex-policeman, was becoming weary of his service. As he went about, his eyes were ever cast downwards, and he walked with a quick shot from the gate, and he suspected others, feeling that he himself was affected.
+--------------------------------------------------------------------------------
+#16
+ref_words=53 hyp_words=53  (diff=0)
+REF: GIVE ME MY HORSE AND ARMS AND WAIT FOR ME HERE I WILL GO IN QUEST OF THIS KNIGHT AND DEAD OR ALIVE I WILL MAKE HIM KEEP HIS WORD PLIGHTED TO SO GREAT BEAUTY O HUSBAND WHOSE UNHAPPY FATE IN BEING MINE HATH BORNE THEE FROM THE MARRIAGE BED TO THE GRAVE
+HYP: Give me my horse and arms, and wait for me here. I will go in the quest of this night, and there alive I will make him keep his word planted to sow grave beauty. O husband, whose unhappy fate and being mine hath borne thee from the buried bed to the grave.
+--------------------------------------------------------------------------------
+#17
+ref_words=53 hyp_words=53  (diff=0)
+REF: GIVE ME MY HORSE AND ARMS AND WAIT FOR ME HERE I WILL GO IN QUEST OF THIS KNIGHT AND DEAD OR ALIVE I WILL MAKE HIM KEEP HIS WORD PLIGHTED TO SO GREAT BEAUTY O HUSBAND WHOSE UNHAPPY FATE IN BEING MINE HATH BORNE THEE FROM THE MARRIAGE BED TO THE GRAVE
+HYP: Give me my horse and arms, and wait for me here. I will go in the quest of this night, and there alive I will make him keep his word planted to sow great beauty. O husband, whose unhappy face and being mine hath borne thee from the marriage bed to the grave.
+--------------------------------------------------------------------------------
+#18
+ref_words=52 hyp_words=53  (diff=1)
+REF: AND NOW IT HAD COME TO PASS THAT HIS SOLE REMAINING ALLY MISTER SAMUEL BOZZLE THE EX POLICEMAN WAS BECOMING WEARY OF HIS SERVICE AS HE WENT ABOUT HIS EYES WERE EVER CAST DOWNWARDS AND HE WALKED WITH A QUICK SHUFFLING GAIT AND HE SUSPECTED OTHERS FEELING THAT HE HIMSELF WAS SUSPECTED
+HYP: And now had come to pass, and his sole remaining ally, Mr. Samuel Basel, the ex-police man, was becoming weary in his service. As he went about, his eyes were ever cast downwards, and he walked with a quick shot from the gate, and he suspected others, feeling that he himself was affected.
+--------------------------------------------------------------------------------
+#19
+ref_words=50 hyp_words=53  (diff=3)
+REF: PUT THE UDDER INTO A STEWPAN WITH SUFFICIENT WATER TO COVER IT LET IT STEW GENTLY TILL QUITE DONE WHEN TAKE IT OUT TO COOL IF THE QUENELLES ARE NOT FIRM ENOUGH ADD THE YOLK OF ANOTHER EGG BUT OMIT THE WHITE WHICH ONLY MAKES THEM HOLLOW AND PUFFY INSIDE
+HYP: Put the udder into a soup pan with sufficient water to cover it. Let it stew gently until quite done. When I take it out too cool. If the quinones are not firm enough, add the oak or another egg, put them in the white, which only makes them whole and puffy inside.
+--------------------------------------------------------------------------------
+#20
+ref_words=51 hyp_words=52  (diff=1)
+REF: IF YOU WOULD PERMIT ME SAID THE ARTIST LOOKING AT PHOEBE I SHOULD LIKE TO TRY WHETHER THE DAGUERREOTYPE CAN BRING OUT DISAGREEABLE TRAITS ON A PERFECTLY AMIABLE FACE IF THE ORIGINAL IS STILL IN THE WORLD I THINK HE MIGHT DEFY THE SUN TO MAKE HIM LOOK STERN AND HARD
+HYP: If you would commit me to the artist looking at TV, I would actually like to try whether the daguerreotype can bring out a disagreeable face on a perfectly amiable face. If the original is still of the world, I think he might advise us to make it look stern and hard.
+--------------------------------------------------------------------------------
+#21
+ref_words=52 hyp_words=52  (diff=0)
+REF: MISSUS BOZZLE WHO WELL UNDERSTOOD THAT BUSINESS WAS BUSINESS AND THAT WIVES WERE NOT BUSINESS FELT NO ANGER AT THIS AND HANDED HER HUSBAND HIS BEST COAT ON THIS HE ROSE FROM HIS CHAIR AND GOING TO HER SAID ONCE MORE SHEW YOUR SUBMISSION BY OBEYING ME A SECOND TIME TO DAY
+HYP: Mrs. Basel, who well understood that business was business and that wives were not business, felt no anger at this. Then he handed her husband his best coat. On this, he rose from his chair and, going to her, said, Once more, show your submission by awaiting me a second time today.
+--------------------------------------------------------------------------------
+#22
+ref_words=49 hyp_words=52  (diff=3)
+REF: IN ARISTOCRATIC COUNTRIES THE GREAT POSSESS IMMENSE PRIVILEGES UPON WHICH THEIR PRIDE RESTS WITHOUT SEEKING TO RELY UPON THE LESSER ADVANTAGES WHICH ACCRUE TO THEM IF I APPLAUD THE FREEDOM WHICH ITS INHABITANTS ENJOY HE ANSWERS FREEDOM IS A FINE THING BUT FEW NATIONS ARE WORTHY TO ENJOY IT
+HYP: In our tragic countries, the Freudians possess immense privileges over which their crime rests without seeking to rely upon the lesser vultages which accrue to them. They buy a poem of freedom, which is inevitably spent jogging the answers. Freedom is a fine thing, but few nations are worthy to enjoy it.
+--------------------------------------------------------------------------------
+#23
+ref_words=51 hyp_words=51  (diff=0)
+REF: SHORTLY AFTER PASSING ONE OF THESE CHAPELS WE CAME SUDDENLY UPON A VILLAGE WHICH STARTED UP OUT OF THE MIST AND I WAS ALARMED LEST I SHOULD BE MADE AN OBJECT OF CURIOSITY OR DISLIKE I EXPRESSED BY SIGNS MY ADMIRATION AND PLEASURE TO MY GUIDES AND THEY WERE GREATLY PLEASED
+HYP: Shortly after passing one of these chapels we came suddenly upon a village which started up out of the mist, and I was alarmed lest I should be made an object of curiosity or dislike. I expressed by signs my admiration and pleasure to my guides, and they were greatly pleased.
+--------------------------------------------------------------------------------
+#24
+ref_words=51 hyp_words=51  (diff=0)
+REF: SHORTLY AFTER PASSING ONE OF THESE CHAPELS WE CAME SUDDENLY UPON A VILLAGE WHICH STARTED UP OUT OF THE MIST AND I WAS ALARMED LEST I SHOULD BE MADE AN OBJECT OF CURIOSITY OR DISLIKE I EXPRESSED BY SIGNS MY ADMIRATION AND PLEASURE TO MY GUIDES AND THEY WERE GREATLY PLEASED
+HYP: Shortly after passing one of these chapels we came suddenly upon a village which started up out of the mist, and I was alarmed lest I should be made an object of curiosity or dislike. I expressed by signs my admiration and pleasure to my guides, and they were greatly pleased.
+--------------------------------------------------------------------------------
+#25
+ref_words=52 hyp_words=51  (diff=-1)
+REF: BESIDES WHICH WE CAN ALWAYS SELL THE COUPONS AND RAILWAY PASSES WHICH WE DON'T USE I HAVE DRAWN UP A LIST OF ALL THE PEOPLE WHO OUGHT TO GIVE US A PRESENT AND I SHALL TELL THEM WHAT THEY OUGHT TO GIVE IT WON'T BE MY FAULT IF I DON'T GET IT
+HYP: Besides which, we can only sell the coupons and railway passes, which we don't use. I draw out a list of all the people who ought to give us a present, and I shall tell them what they ought to give. It won't be my fault if I don't get it.
+--------------------------------------------------------------------------------

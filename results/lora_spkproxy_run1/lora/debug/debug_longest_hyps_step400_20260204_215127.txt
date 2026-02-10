@@ -1,0 +1,128 @@
+[debug] tag=step400  n=1200  topk=25
+Sorted by hyp word count (descending)
+
+#1
+ref_words=15 hyp_words=224  (diff=209)
+REF: NOT ON THE RANGE WHY NOT DEMANDED THE BOY A TEMPORARY CAMP WAS QUICKLY PITCHED
+HYP: NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO
+--------------------------------------------------------------------------------
+#2
+ref_words=62 hyp_words=65  (diff=3)
+REF: HE HELD A HOE IN HIS HAND AND WHILE PHOEBE WAS GONE IN QUEST OF THE CRUMBS HAD BEGUN TO BUSY HIMSELF WITH DRAWING UP FRESH EARTH ABOUT THE ROOTS OF THE TOMATOES IF YOU WOULD PERMIT ME SAID THE ARTIST LOOKING AT PHOEBE I SHOULD LIKE TO TRY WHETHER THE DAGUERREOTYPE CAN BRING OUT DISAGREEABLE TRAITS ON A PERFECTLY AMIABLE FACE
+HYP: He held the hoe of his hand and while he was gone he busted the crumbs and he led to visit himself with drawing up fresh birth about the roots of the tavos. If he would permit me to be artist looking at Phoebe I would like to try whether the figureo type can bring out just some real traits on a perfectly amiable face.
+--------------------------------------------------------------------------------
+#3
+ref_words=62 hyp_words=63  (diff=1)
+REF: HE HELD A HOE IN HIS HAND AND WHILE PHOEBE WAS GONE IN QUEST OF THE CRUMBS HAD BEGUN TO BUSY HIMSELF WITH DRAWING UP FRESH EARTH ABOUT THE ROOTS OF THE TOMATOES IF YOU WOULD PERMIT ME SAID THE ARTIST LOOKING AT PHOEBE I SHOULD LIKE TO TRY WHETHER THE DAGUERREOTYPE CAN BRING OUT DISAGREEABLE TRAITS ON A PERFECTLY AMIABLE FACE
+HYP: He held a hoe in his hand, and while Phoebe was gone in quest of the crumbs, had begun to busy himself withdrawing up fresh earth about the roots of the tomatoes. If you would permit me to the artist looking at Phoebe, I would like to try whether the daguerreotype can bring out just a real trace on her perfectly amiable face.
+--------------------------------------------------------------------------------
+#4
+ref_words=62 hyp_words=62  (diff=0)
+REF: A DISTINCT PROMISE OF A HUNDRED POUNDS WAS MADE TO HIM IF HE WOULD HAVE THE CHILD READY TO HAND OVER TO TREVELYAN ON TREVELYAN'S ARRIVAL IN ENGLAND AT LAST HE SENT WORD TO SAY THAT HE HIMSELF WOULD BE IN ENGLAND BEFORE THE END OF MARCH AND WOULD SEE THAT THE MAJESTY OF THE LAW SHOULD BE VINDICATED IN HIS FAVOUR
+HYP: A distinct promise of a hundred pounds was made to him if he would have the child ready to hand over to Trevelyan on Trevelyan's arrival in England. At last he sent word to say that he himself would be in England before the end of March and would see that the majesty of the law should be vindicated in his favor.
+--------------------------------------------------------------------------------
+#5
+ref_words=62 hyp_words=62  (diff=0)
+REF: HE HELD A HOE IN HIS HAND AND WHILE PHOEBE WAS GONE IN QUEST OF THE CRUMBS HAD BEGUN TO BUSY HIMSELF WITH DRAWING UP FRESH EARTH ABOUT THE ROOTS OF THE TOMATOES IF YOU WOULD PERMIT ME SAID THE ARTIST LOOKING AT PHOEBE I SHOULD LIKE TO TRY WHETHER THE DAGUERREOTYPE CAN BRING OUT DISAGREEABLE TRAITS ON A PERFECTLY AMIABLE FACE
+HYP: He held the hoe of his hand and while Phoebe was gone he busted the crumbs and he led to pity himself with drawing up fresh birth about the roots of his vapors. If you would permit me said the artist looking at Phoebe I should like to try whether the daguerreotype can bring out disagreeable traits on a perfectly amiable face
+--------------------------------------------------------------------------------
+#6
+ref_words=62 hyp_words=62  (diff=0)
+REF: A DISTINCT PROMISE OF A HUNDRED POUNDS WAS MADE TO HIM IF HE WOULD HAVE THE CHILD READY TO HAND OVER TO TREVELYAN ON TREVELYAN'S ARRIVAL IN ENGLAND AT LAST HE SENT WORD TO SAY THAT HE HIMSELF WOULD BE IN ENGLAND BEFORE THE END OF MARCH AND WOULD SEE THAT THE MAJESTY OF THE LAW SHOULD BE VINDICATED IN HIS FAVOUR
+HYP: A distinct promise of a hundred pounds was made to him if he would have the child ready to hand over to Trabelian on Trabelian's arrival in England. At last he sent word to say that he himself would be in England before the end of March and would see that the majesty of the law should be vindicated in his favor.
+--------------------------------------------------------------------------------
+#7
+ref_words=62 hyp_words=62  (diff=0)
+REF: A DISTINCT PROMISE OF A HUNDRED POUNDS WAS MADE TO HIM IF HE WOULD HAVE THE CHILD READY TO HAND OVER TO TREVELYAN ON TREVELYAN'S ARRIVAL IN ENGLAND AT LAST HE SENT WORD TO SAY THAT HE HIMSELF WOULD BE IN ENGLAND BEFORE THE END OF MARCH AND WOULD SEE THAT THE MAJESTY OF THE LAW SHOULD BE VINDICATED IN HIS FAVOUR
+HYP: A distinct promise of a hundred pounds was made to him if he would have a child ready to hand over to Trabellion on Trabellion's arrival in England. At last he sent word to say that he himself would be in England before the end of March and would see that the majesty of the law should be vindicated in his favor.
+--------------------------------------------------------------------------------
+#8
+ref_words=59 hyp_words=61  (diff=2)
+REF: THE REGENT'S LADY ORDERED ONE OF HER SERVANTS TO GIVE THE EIGHTY CROWNS THAT HAD BEEN ASSESSED AS HER SHARE AT ONCE FOR THE CAPTAINS HAD ALREADY PAID DOWN THEIR SIXTY HE WAS MOUNTED UPON A POWERFUL HORSE AND HAD ON A COAT OF MAIL WITH FOUR OF THE PISTOLS THEY CALL PETRONELS IN THAT COUNTRY AT HIS WAIST
+HYP: the regent's lady ordered one of her servants to give the eighty crowns that had been assessed as her share at once for the captains had already paid down their sixty he was mounted upon a power of force and had on a coat of mail with four of the pistols they called petra elves in that country at his waist
+--------------------------------------------------------------------------------
+#9
+ref_words=60 hyp_words=60  (diff=0)
+REF: IT WAS A SUMMER NIGHT AND THE GUESTS WERE WANDERING IN AND OUT AT WILL AND THROUGH HOUSE AND GARDEN AMID LOVELY THINGS OF ALL COLORS AND ODORS SHE KNEW NOTHING OF THE PLACE HAD NOWHERE TO GO NOWHERE SHE WANTED TO GO HAD NOT A THOUGHT TO TELL HER WHAT QUESTION TO ASK IF SHE MET A LIVING SOUL
+HYP: It was a summer night and the guests were wandering in and out at will and threw house and garden amid lovely things of all colors and odors. She knew nothing of the place, had nowhere to go, nowhere she wanted to go, had not a thought to tell her what questions to ask as she met the living soul.
+--------------------------------------------------------------------------------
+#10
+ref_words=60 hyp_words=60  (diff=0)
+REF: IT WAS A SUMMER NIGHT AND THE GUESTS WERE WANDERING IN AND OUT AT WILL AND THROUGH HOUSE AND GARDEN AMID LOVELY THINGS OF ALL COLORS AND ODORS SHE KNEW NOTHING OF THE PLACE HAD NOWHERE TO GO NOWHERE SHE WANTED TO GO HAD NOT A THOUGHT TO TELL HER WHAT QUESTION TO ASK IF SHE MET A LIVING SOUL
+HYP: It was a summer night and the guests were wandering in and out at will and through house and garden amid lovely things of all colors and odors She knew nothing of the place, had nowhere to go, nowhere she wanted to go, had not a thought to tell her what question to ask if she met a living soul
+--------------------------------------------------------------------------------
+#11
+ref_words=60 hyp_words=60  (diff=0)
+REF: IT WAS A SUMMER NIGHT AND THE GUESTS WERE WANDERING IN AND OUT AT WILL AND THROUGH HOUSE AND GARDEN AMID LOVELY THINGS OF ALL COLORS AND ODORS SHE KNEW NOTHING OF THE PLACE HAD NOWHERE TO GO NOWHERE SHE WANTED TO GO HAD NOT A THOUGHT TO TELL HER WHAT QUESTION TO ASK IF SHE MET A LIVING SOUL
+HYP: It was a summer night and the guests were wandering in and out at will and through House of Garden amid lovely things of all colors and odors. She knew nothing of the place, had nowhere to go, nowhere she wanted to go, had not a thought to tell her what question to ask if she met a living soul.
+--------------------------------------------------------------------------------
+#12
+ref_words=59 hyp_words=60  (diff=1)
+REF: THE REGENT'S LADY ORDERED ONE OF HER SERVANTS TO GIVE THE EIGHTY CROWNS THAT HAD BEEN ASSESSED AS HER SHARE AT ONCE FOR THE CAPTAINS HAD ALREADY PAID DOWN THEIR SIXTY HE WAS MOUNTED UPON A POWERFUL HORSE AND HAD ON A COAT OF MAIL WITH FOUR OF THE PISTOLS THEY CALL PETRONELS IN THAT COUNTRY AT HIS WAIST
+HYP: The Regent's Lady ordered one of her servants to dig the eight grounds that had been assessed as her share at once, where the captains had already paid down their sixty. He was mounted upon a power of force, and had on a coat of mail with four of the pistols they called petrels in that country at his waist.
+--------------------------------------------------------------------------------
+#13
+ref_words=55 hyp_words=58  (diff=3)
+REF: ONCE MORE STACY APPROACHED THE SOMBRERO HIS PONY RUNNING WELL AND AS HE DREW NEAR IT THEY SAW HIM RISE IN HIS SADDLE JUST AS TAD BUTLER HAD DONE A FEW MINUTES BEFORE PONG TELL THE YOUNG GENTLEMEN WHAT WOULD BECOME OF YOU IF YOU WERE TO SERVE BAD MEALS TO THIS OUTFIT OF COWPUNCHERS
+HYP: Once more Stacey had pushed the sombrero, his body running well, and as he drew near it they saw him rise in the saddle, just as his head butler had done a few minutes before Pong, tell the young gentleman what would become of you if you were to serve bad males to this outfit of cow punchers
+--------------------------------------------------------------------------------
+#14
+ref_words=49 hyp_words=58  (diff=9)
+REF: IN ARISTOCRATIC COUNTRIES THE GREAT POSSESS IMMENSE PRIVILEGES UPON WHICH THEIR PRIDE RESTS WITHOUT SEEKING TO RELY UPON THE LESSER ADVANTAGES WHICH ACCRUE TO THEM IF I APPLAUD THE FREEDOM WHICH ITS INHABITANTS ENJOY HE ANSWERS FREEDOM IS A FINE THING BUT FEW NATIONS ARE WORTHY TO ENJOY IT
+HYP: In our tragic countries they were able to possess the immense privileges of all which their pride rests without seeking to rely upon the lesser vortiges which accrue to them. They buy a pool of the freedom which its inhabitants can jump in the answers. Freedom is a fine thing but few nations are worthy to enjoy it.
+--------------------------------------------------------------------------------
+#15
+ref_words=52 hyp_words=57  (diff=5)
+REF: SOMEHOW OR OTHER CAT HAS TAUGHT THEM THAT HE'S IN CHARGE HERE AND HE JUST CHASES THEM FOR FUN NOW AND AGAIN WHEN HE'S NOT BUSY SLEEPING IN ARISTOCRATIC COUNTRIES THE GREAT POSSESS IMMENSE PRIVILEGES UPON WHICH THEIR PRIDE RESTS WITHOUT SEEKING TO RELY UPON THE LESSER ADVANTAGES WHICH ACCRUE TO THEM
+HYP: Somehow or other, Kat has taught them that he is in charge here and he just chases them for fun now and again when he's not busy sleeping. In our strata countries they were ready to possess immense privileges of over which that cry rests without seeking to rely upon the lesser bondage which accrues with him.
+--------------------------------------------------------------------------------
+#16
+ref_words=57 hyp_words=57  (diff=0)
+REF: SO LONELY AND SO SOLEMN WITH THE SAD GREY CLOUDS ABOVE AND NO SOUND SAVE A LOST LAMB BLEATING UPON THE MOUNTAIN SIDE AS THOUGH ITS LITTLE HEART WERE BREAKING THE FIRST EDITION OF EREWHON SOLD IN ABOUT THREE WEEKS I HAD NOT TAKEN MOULDS AND AS THE DEMAND WAS STRONG IT WAS SET UP AGAIN IMMEDIATELY
+HYP: so lonely and so solemn with the sad gray clouds above and no sound save a lost lamb bleeding upon the mountainside as though its little heart were breaking the first edition of everyone sold in about three weeks i did not take any moles and as the vamp was dropped it was set out again immediately
+--------------------------------------------------------------------------------
+#17
+ref_words=57 hyp_words=57  (diff=0)
+REF: SO LONELY AND SO SOLEMN WITH THE SAD GREY CLOUDS ABOVE AND NO SOUND SAVE A LOST LAMB BLEATING UPON THE MOUNTAIN SIDE AS THOUGH ITS LITTLE HEART WERE BREAKING THE FIRST EDITION OF EREWHON SOLD IN ABOUT THREE WEEKS I HAD NOT TAKEN MOULDS AND AS THE DEMAND WAS STRONG IT WAS SET UP AGAIN IMMEDIATELY
+HYP: so lonely and so solemn with the sad grey clouds above and no sounds being lost when I'm bleeding upon a mountain side and I was a little heart breaking the first edition of Irawan sold in about three weeks I had not taken molds and as the demand was strong it was set up again immediately
+--------------------------------------------------------------------------------
+#18
+ref_words=57 hyp_words=57  (diff=0)
+REF: SO LONELY AND SO SOLEMN WITH THE SAD GREY CLOUDS ABOVE AND NO SOUND SAVE A LOST LAMB BLEATING UPON THE MOUNTAIN SIDE AS THOUGH ITS LITTLE HEART WERE BREAKING THE FIRST EDITION OF EREWHON SOLD IN ABOUT THREE WEEKS I HAD NOT TAKEN MOULDS AND AS THE DEMAND WAS STRONG IT WAS SET UP AGAIN IMMEDIATELY
+HYP: so lonely and so solemn with the sad grey clouds above and no sound staying lost by a bleeding upon the mountainside as though his little heart were breaking the first edition of everyone sold in about three weeks i did not take any moles and as the band was dropped it was set up again immediately
+--------------------------------------------------------------------------------
+#19
+ref_words=55 hyp_words=56  (diff=1)
+REF: ONCE MORE STACY APPROACHED THE SOMBRERO HIS PONY RUNNING WELL AND AS HE DREW NEAR IT THEY SAW HIM RISE IN HIS SADDLE JUST AS TAD BUTLER HAD DONE A FEW MINUTES BEFORE PONG TELL THE YOUNG GENTLEMEN WHAT WOULD BECOME OF YOU IF YOU WERE TO SERVE BAD MEALS TO THIS OUTFIT OF COWPUNCHERS
+HYP: Once more Stacey approached the sombrero his pony running well and as he drew near it they saw him rise in the saddle just as Tad Butler had done a few minutes before POM tell the other gentleman what would become of you if you were to serve bad nails to the staff of the calendars
+--------------------------------------------------------------------------------
+#20
+ref_words=54 hyp_words=56  (diff=2)
+REF: THE COMPARISON OCCURRED TO MISTER VERLOC BECAUSE HE HAD SAT ASTRIDE VARIOUS ARMY HORSES IN HIS TIME AND HAD NOW THE SENSATION OF AN INCIPIENT FALL LOAFING WAS ALL VERY WELL FOR THESE FELLOWS WHO KNEW NOT MISTER VLADIMIR AND HAD WOMEN TO FALL BACK UPON WHEREAS HE HAD A WOMAN TO PROVIDE FOR
+HYP: The comparison occurred to Mr. Ralock because he had satish tried various army horses in his time and had now the sensation of a Mississippi at all. Little thing was all very well for these colleagues who knew not Mr. Vladimir and the women to fall back upon whereas he had a woman to provide for.
+--------------------------------------------------------------------------------
+#21
+ref_words=52 hyp_words=56  (diff=4)
+REF: SOMEHOW OR OTHER CAT HAS TAUGHT THEM THAT HE'S IN CHARGE HERE AND HE JUST CHASES THEM FOR FUN NOW AND AGAIN WHEN HE'S NOT BUSY SLEEPING IN ARISTOCRATIC COUNTRIES THE GREAT POSSESS IMMENSE PRIVILEGES UPON WHICH THEIR PRIDE RESTS WITHOUT SEEKING TO RELY UPON THE LESSER ADVANTAGES WHICH ACCRUE TO THEM
+HYP: SOMEHOW OR OTHER CAP HAS TELLED THEM THAT HE IS IN CHARGED HERE AND HE JUST CHASES THEM FOR FUN NOW AND AGAIN WHEN HE'S MOM BIDDY SLEEPING IN ARISTRITIC COUNTRIES THEY ROID TO POSSESS THE IMMENSE PRIVILEGES ABOUT WHICH THAT CRY ARREST WITHOUT SEAKING TO RELIE UP IN THE LESSER VOTAGES WHICH ACCRUSE OF THEM
+--------------------------------------------------------------------------------
+#22
+ref_words=54 hyp_words=56  (diff=2)
+REF: ARDENT IN THE PROSECUTION OF HERESY CYRIL AUSPICIOUSLY OPENED HIS REIGN BY OPPRESSING THE NOVATIANS THE MOST INNOCENT AND HARMLESS OF THE SECTARIES A RUMOR WAS SPREAD AMONG THE CHRISTIANS THAT THE DAUGHTER OF THEON WAS THE ONLY OBSTACLE TO THE RECONCILIATION OF THE PRAEFECT AND THE ARCHBISHOP AND THAT OBSTACLE WAS SPEEDILY REMOVED
+HYP: Art and state the prosecution of heresy. Carol auspiciously opened his reign by oppressing the negations, the most innocent and harmless of secretaries. A rumor was spread among the Christians that the daughter of Theon was the only obstacle to the reconciliation of the prefect of the North Church, and that obstacle was steel and removed.
+--------------------------------------------------------------------------------
+#23
+ref_words=55 hyp_words=56  (diff=1)
+REF: ONCE MORE STACY APPROACHED THE SOMBRERO HIS PONY RUNNING WELL AND AS HE DREW NEAR IT THEY SAW HIM RISE IN HIS SADDLE JUST AS TAD BUTLER HAD DONE A FEW MINUTES BEFORE PONG TELL THE YOUNG GENTLEMEN WHAT WOULD BECOME OF YOU IF YOU WERE TO SERVE BAD MEALS TO THIS OUTFIT OF COWPUNCHERS
+HYP: Once more Stacey had pushed the sombrero, his body running well, and as he drew near it they saw him rise in the sand with just his head but learned them a few minutes before Palm the tough young gentleman awkwardly covered you if you were to serve bad males to the staff of the calendar's
+--------------------------------------------------------------------------------
+#24
+ref_words=54 hyp_words=55  (diff=1)
+REF: ARDENT IN THE PROSECUTION OF HERESY CYRIL AUSPICIOUSLY OPENED HIS REIGN BY OPPRESSING THE NOVATIANS THE MOST INNOCENT AND HARMLESS OF THE SECTARIES A RUMOR WAS SPREAD AMONG THE CHRISTIANS THAT THE DAUGHTER OF THEON WAS THE ONLY OBSTACLE TO THE RECONCILIATION OF THE PRAEFECT AND THE ARCHBISHOP AND THAT OBSTACLE WAS SPEEDILY REMOVED
+HYP: ardent in the prosecution of heresy carol auspiciously opened his reign by oppressing the novations the most innocent and harmless of the sectaries a rumor was strident among the christians that the daughter of theon was the only obstacle to the reconciliation of the prefect of north bishop and that obstacle was steel and removed
+--------------------------------------------------------------------------------
+#25
+ref_words=51 hyp_words=55  (diff=4)
+REF: THEY MADE ME THINK OF DEFEATED ARMIES RETREATING OR OF GHOSTS WHO WERE TRYING DESPERATELY TO GET IN FOR SHELTER AND THEN WENT MOANING ON THE LITTLE HOUSE ON THE HILLSIDE WAS SO MUCH THE COLOR OF THE NIGHT THAT WE COULD NOT SEE IT AS WE CAME UP THE DRAW
+HYP: They made me think it was to be an army's retreem or of ghosts who were trying desperately to get in her shelter and they were I'm voting on The little house on the hillside was so much the color of the night that we could not see it as we came up the draw
+--------------------------------------------------------------------------------
